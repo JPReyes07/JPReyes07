@@ -1,16 +1,19 @@
-### Hi there 👋
+# 👨‍💻 Hi, I'm Josh! 
 
-<!--
-**JPReyes07/JPReyes07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am an inquisitive and driven industrial engineering student who enjoys delving deeply into diverse data sets to uncover hidden insights. Armed with a keen analytical mind, I pursue data analysis to make sense of different systems and produce a positive impact. 
 
-Here are some ideas to get you started:
+I see data analysis as not simply a passing hobby but rather a passion that could push me to greater heights. My projects revolve around the complexities of supervised machine learning and operations research to harness the ability of making objective and better-informed decisions in a wide range of fields, from business and finance to healthcare and beyond. By utilizing sophisticated algorithms and predictive models, we can optimize processes, identify areas for improvement, and make strategic decisions based on data-driven insights. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🦾 Technologies
+
+* Python
+* R
+* SQL
+* Minitab
+* Tableau
+* HTML
+* CSS
+* Office 365
+---
